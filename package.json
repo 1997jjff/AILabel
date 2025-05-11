@@ -6,7 +6,7 @@
   "browser_demo": "demo/index.js",
   "browser_website": "website/src/dist/index.js",
   "dependencies": {
-    "@babel/runtime": "^7.15.4",
+    "@babel/runtime": "^7.26.10",
     "events": "^3.3.0",
     "hotkeys-js": "^3.8.7",
     "lodash": "^4.17.21"
